@@ -1,0 +1,3 @@
+﻿User-agent: *
+Allow: /
+Sitemap: https://mmvc.vercel.app/sitemap.xml

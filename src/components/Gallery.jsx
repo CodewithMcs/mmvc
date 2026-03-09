@@ -16,8 +16,9 @@ const Gallery = () => {
             className="gallery-card"
             style={{ backgroundImage: `url(${asset(img)})` }}
             onClick={() => setOpenImage(asset(img))}
-            aria-label="Open image"
+            aria-label={`Open gallery image ${i + 1}`}
           >
+            <span className="sr-only">Gallery image {i + 1}</span>
             <div className="gallery-overlay">MassMakers VC</div>
           </button>
         ))}
@@ -25,7 +26,7 @@ const Gallery = () => {
 
       {openImage && (
         <div className="lightbox" onClick={() => setOpenImage(null)} role="presentation">
-          <img src={openImage} alt="Gallery full view" />
+          <img src={openImage} alt="Gallery full view" loading="lazy" />
           <button className="lightbox-close" onClick={() => setOpenImage(null)} aria-label="Close image">✕</button>
         </div>
       )}
