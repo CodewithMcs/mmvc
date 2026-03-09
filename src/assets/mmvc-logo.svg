@@ -1,0 +1,16 @@
+<svg width="180" height="42" viewBox="0 0 180 42" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="mmvcGrad" x1="0" y1="0" x2="180" y2="42" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FF7A1A"/>
+      <stop offset="0.55" stop-color="#FF9A3C"/>
+      <stop offset="1" stop-color="#0F4BA8"/>
+    </linearGradient>
+  </defs>
+  <rect x="1.5" y="1.5" width="177" height="39" rx="10" fill="url(#mmvcGrad)" opacity="0.14" stroke="url(#mmvcGrad)" stroke-width="3"/>
+  <path d="M20 28V14H26.2L30.1 21.2 34 14H40.2V28H34.9V21.6L30.1 28H29.8L25 21.6V28H20Z" fill="#0A1833"/>
+  <path d="M48.5 28V14H54.6L58.5 20.5 62.5 14H68.6V28H63.3V21.3L58.5 28H58.2L53.4 21.3V28H48.5Z" fill="#0A1833"/>
+  <path d="M77.5 28V14H84.9C89.4 14 92.2 16.7 92.2 21C92.2 25.4 89.4 28 84.9 28H77.5ZM82.7 23.7H84.5C86.1 23.7 87.1 22.6 87.1 21C87.1 19.4 86.1 18.3 84.5 18.3H82.7V23.7Z" fill="#0A1833"/>
+  <path d="M99 28L105.3 14H112.7L119 28H113.2L112 25.1H105.9L104.6 28H99ZM107.5 21.5H110.5L109 18.1 107.5 21.5Z" fill="#0A1833"/>
+  <circle cx="147" cy="21" r="13.5" fill="#0A1833"/>
+  <path d="M141.5 26V16H146.2L149.1 21.3 152.1 16H156.8V26H152.7V20.9L149.1 26H149L145.4 20.9V26H141.5Z" fill="url(#mmvcGrad)"/>
+</svg>
