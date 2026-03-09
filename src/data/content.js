@@ -8,13 +8,13 @@
 
 export const mission = {
   about: 'MassMakers VC is a competitive volleyball club built on teamwork, relentless practice, and the joy of playing fast, modern volleyball. We develop players who lead on and off the court.',
-  vision: 'To be the most dynamic community-driven volleyball program in New England, inspiring athletes to compete fiercely and serve the game with passion.'
-  // coach: {
-  //   name: 'Coach Elena Carter',
-  //   role: 'Head Coach & Program Director',
-  //   bio: 'Former D1 setter, USA Volleyball Certified, focused on speed, precision, and positive culture.',
-  //   photo: '/players/mm-09.jpg',
-  // },
+  vision: 'To be the most dynamic community-driven volleyball program in New England, inspiring athletes to compete fiercely and serve the game with passion.',
+  coach: {
+    name: 'Coach Elena Carter',
+    role: 'Head Coach & Program Director',
+    bio: 'Former D1 setter, USA Volleyball Certified, focused on speed, precision, and positive culture.',
+    photo: '/images/coach.jpg',
+  },
 };
 
 export const players = [
