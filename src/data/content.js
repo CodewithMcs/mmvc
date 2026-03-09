@@ -20,7 +20,7 @@ export const mission = {
 export const players = [
   { name: 'kali', position: 'Defensive Specialist', number: 55, emoji: '🔥', photo: '/players/mm-10.jpeg' },
   { name: 'Prakash', position: 'Outside Hitter', number: 45, emoji: '🔥', photo: '/players/mm-04.jpeg' },
-  { name: 'Dhivakar', position: 'Setter', number: 1, emoji: '🎯', photo: '/players/mm-09.jpg' },
+  { name: 'Dhivakar', position: 'Setter', number: 1, emoji: '🎯', photo: '/players/mm-11.jpeg' },
   { name: 'Praveen', position: 'Defensive Specialist', number: 7, emoji: '🔥', photo: '/players/mm-06.jpeg' },
   { name: 'Mani', position: 'Libero', number: 12, emoji: '🔥', photo: '/players/mm-09.jpg' },
   { name: 'Vikash', position: 'Setter', number: 42, emoji: '⚡', photo: '/players/mm-08.jpeg' },
@@ -29,38 +29,38 @@ export const players = [
   { name: 'Pon Selvem', position: 'Opposite Hitter', number: 6, emoji: '🔥', photo: '/players/mm-03.jpeg' },
   { name: 'Sasu', position: 'Opposite Hitter', number: 12, emoji: '🔥', photo: '/players/mm-09.jpg' },
   { name: 'Marivel', position: 'Opposite Hitter', number: 8, emoji: '🔥', photo: '/players/mm-09.jpg' },
-  { name: 'Deva', position: 'Defensive Specialist', number: 15, emoji: '🏐', photo: '/players/mm-09.jpg' },
+  { name: 'Deva', position: 'Defensive Specialist', number: 15, emoji: '🏐', photo: '/players/mm-12.jpeg' },
   { name: 'Saran', position: 'Libero', number: 20, emoji: '🔥', photo: '/players/mm-05.jpeg' },
   { name: 'Mugesh', position: 'Outside Hitter', number: 7, emoji: '💥', photo: '/players/mm-01.jpeg' },
   { name: 'Arun', position: 'Middle Blocker', number: 10, emoji: '🛡️', photo: '/players/mm-02.webp' },
   { name: 'Ram Selvem', position: 'Defensive Specialist', number: 5, emoji: '🔥', photo: '/players/mm-09.jpg' },
-  { name: 'Mugunthan', position: 'Defensive Specialist', number: 3, emoji: '🔥', photo: '/players/mm-09.jpg' },
+  { name: 'Mugunthan', position: 'Defensive Specialist', number: 3, emoji: '🔥', photo: '/players/mm-13.jpeg' },
   { name: 'Robin', position: 'Defensive Specialist', number: 18, emoji: '🔥', photo: '/players/mm-09.jpg' },
 ];
 
 export const matches = [
-  { 
+  {
     date: 'Mar 21, 2026',
     opponent: 'Tenkasi Warriors',
     location: 'Tenkasi Volleyball Ground',
     time: '6:30 PM',
     status: 'Tournament'
   },
-  { 
+  {
     date: 'Mar 30, 2026',
     opponent: 'Tirunelveli Spikers',
     location: 'Tirunelveli Indoor Stadium',
     time: '5:00 PM',
     status: 'Away'
   },
-  { 
+  {
     date: 'Apr 06, 2026',
     opponent: 'Sankarankovil Smashers',
     location: 'Sankarankovil Sports Ground',
     time: '7:15 PM',
     status: 'Away'
   },
-  { 
+  {
     date: 'Apr 18, 2026',
     opponent: 'Kadayanallur Kings',
     location: 'Kadayanallur Volleyball Court',
@@ -72,6 +72,8 @@ export const matches = [
 export const gallery = [
   '/images/mmvc-01.jpeg',
   '/images/mmvc-02.jpeg',
+  '/images/mmvc-04.jpeg',
+  '/images/mmvc-05.jpeg',
 ];
 
 export const navLinks = [
